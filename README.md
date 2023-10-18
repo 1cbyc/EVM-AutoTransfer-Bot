@@ -30,4 +30,11 @@ Before using the bot, ensure you have the following prerequisites installed:
    ```bash
    cd EVM-AutoTransfer-Bot
 
-3. 
+3. Install the required Python packages:
+
+   ```bash
+   pip3 install -r requirements.txt
+
+// I would list the requirements detail in that file.  I don't want to forget
+
+
