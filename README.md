@@ -43,4 +43,15 @@ Before using the bot, ensure you have the following prerequisites installed:
    pip3 install -r requirements.txt
 
 
+# Usage
 
+To run the bot, execute the main Python script:
+    ```bash
+    python3 bot.py
+
+    Make sure to configure the bot settings and wallet address in the **config,json** file before running it.
+
+
+# Configuration
+
+The **config,json** file allows you to customize the bot behaviour, including wallet addresses to monitor, network settings, and notification preferences. Please check the **config.example.json** as a template for your own configuration.
