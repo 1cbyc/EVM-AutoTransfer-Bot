@@ -60,3 +60,12 @@ The **config,json** file allows you to customize the bot behaviour, including wa
 
 I'd appreciate contributions to this project. I made it open-source because I feel a bit rusty with my python skill. If you have ideas for imrpovements, bug fixes, or even new features, feel free to submit pull requests. I would review it.
 
+# License
+
+The EVM Chain Native Token Auto Transfer Bot is licensed under the MIT License.
+
+# For Enquiries
+
+For questions or issues related to this bot, you can create an issue on the project. If you feel it is private, you can send an email to hello@nsisong.com.
+
+Thank you for using the
