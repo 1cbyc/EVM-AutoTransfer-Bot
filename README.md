@@ -62,7 +62,7 @@ I'd appreciate contributions to this project. I made it open-source because I fe
 
 # License
 
-The EVM Chain Native Token Auto Transfer Bot is licensed under the MIT License.
+The EVM Chain Native Token Auto Transfer Bot is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 # For Enquiries
 
