@@ -55,3 +55,8 @@ To run the bot, execute the main Python script:
 # Configuration
 
 The **config,json** file allows you to customize the bot behaviour, including wallet addresses to monitor, network settings, and notification preferences. Please check the **config.example.json** as a template for your own configuration.
+
+# Contributing 
+
+I'd appreciate contributions to this project. I made it open-source because I feel a bit rusty with my python skill. If you have ideas for imrpovements, bug fixes, or even new features, feel free to submit pull requests. I would review it.
+
