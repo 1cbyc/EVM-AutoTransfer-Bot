@@ -73,5 +73,19 @@ Thank you for using the **EVM Chain Native Token Auto Transfer Bot**
 
 <hr>
 
+# Disclaimer 
+
+The **"EVM Chain Native Token Auto Transfer Bot"** is provided for educational and security purposes only. It is not intended for any fraudulent or malicious activities. The author and contributors of this tool are not liable for how it is used or for any unlawful activities carried out by individuals using this tool.
+
+By using the **"EVM Chain Native Token Auto Transfer Bot"**, you agree to use it responsibly and in compliance with all applicable laws and regulations. The tool should only be used in ethical and legal ways, such as for educational purposes, security testing, and research.
+
+Any unauthorized or unlawful use of this tool is strictly prohibited, and the author and contributors do not endorse or support any such activities. You are solely responsible for your actions while using the **"EVM Chain Native Token Auto Transfer Bot"**.
+
+Please use the **"EVM Chain Native Token Auto Transfer Bot"** responsibly and ethically, and respect the privacy and security of others. If you have any questions or concerns about the tool's usage, feel free to contact the project owner.
+
+By using this tool, you acknowledge and accept this disclaimer.
+
+<hr>
+
 
 #### This Project is dedicated to the Open-source community! ❤️🌹
