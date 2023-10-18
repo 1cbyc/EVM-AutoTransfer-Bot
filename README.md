@@ -58,7 +58,7 @@ The **config,json** file allows you to customize the bot behaviour, including wa
 
 # Contributing 
 
-I'd appreciate contributions to this project. I made it open-source because I feel a bit rusty with my python skill. If you have ideas for imrpovements, bug fixes, or even new features, feel free to submit pull requests. I would review it.
+I'd appreciate contributions to this project. I made it open-source because I feel a bit rusty with my Python programming skill (it's been a while). If you have ideas for imrpovements, bug fixes, or even new features, feel free to submit pull requests. I would review it.
 
 # License
 
