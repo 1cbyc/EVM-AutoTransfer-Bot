@@ -69,3 +69,9 @@ The EVM Chain Native Token Auto Transfer Bot is licensed under the [MIT License]
 For questions or issues related to this bot, you can create an issue on the project. If you feel it is private, you can send an email to [Email](mailto:hello@nsisong.com)
 
 Thank you for using the **EVM Chain Native Token Auto Transfer Bot**
+
+
+<hr>
+
+
+#### This Project is dedicated to the Open-source community! ❤️🌹
