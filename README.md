@@ -35,7 +35,7 @@ Before using the bot, ensure you have the following prerequisites installed:
    ```bash
    pip3 install -r requirements.txt
 
-// I would list the requirements detail in that file.  I don't want to forget
+    I would list the requirements detail in that file.  I don't want to forget
 
 4. Install the required Python packages:
 
@@ -58,11 +58,11 @@ The **config,json** file allows you to customize the bot behaviour, including wa
 
 # Contributing 
 
-I'd appreciate contributions to this project. I made it open-source because I feel a bit rusty with my python skill. If you have ideas for imrpovements, bug fixes, or even new features, feel free to submit pull requests. I would review it.
+I'd appreciate contributions to this project. I made it open-source because I feel a bit rusty with my Python programming skill (it's been a while). If you have ideas for imrpovements, bug fixes, or even new features, feel free to submit pull requests. I would review it.
 
 # License
 
-The EVM Chain Native Token Auto Transfer Bot is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+The EVM Chain Native Token Auto Transfer Bot is licensed under the [GNU General Public License, version 3 (GPL-3.0)](https://www.gnu.org/licenses/gpl-3.0.html).
 
 # For Enquiries
 
