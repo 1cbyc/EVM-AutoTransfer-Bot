@@ -24,3 +24,9 @@ Before using the bot, ensure you have the following prerequisites installed:
 
    ```bash
    git clone https://github.com/nsisongltd/EVM-AutoTransfer-Bot.git
+
+2. Change into the project directory:
+
+   ```bash
+   cd EVM-AutoTransfer-Bot
+   
